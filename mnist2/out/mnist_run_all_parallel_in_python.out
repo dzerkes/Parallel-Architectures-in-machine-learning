@@ -1,0 +1,33 @@
+Exp. 1: using LBFGS solver...
+Exp. 2: using ADAM solver...
+Exp. 3: using SGD solver...
+Exp. 4: increasing depth...
+Exp. 5: increasing width...
+Exp. 6: using SGD solver with a mini-batch of 64...
+Exp. 7: using SGD solver with a mini-batch of 128...
+Exp. 8: using SGD solver with a mini-batch of 256...
+pid 22245's current affinity list: 0-7
+pid 22245's new affinity list: 0
+pid 22249's current affinity list: 0-7
+pid 22249's new affinity list: 1
+pid 22253's current affinity list: 0-7
+pid 22253's new affinity list: 2
+pid 22257's current affinity list: 0-7
+pid 22257's new affinity list: 3
+pid 22261's current affinity list: 0-7
+pid 22261's new affinity list: 4
+pid 22265's current affinity list: 0-7
+pid 22265's new affinity list: 5
+pid 22269's current affinity list: 0-7
+pid 22269's new affinity list: 6
+pid 22273's current affinity list: 0-7
+pid 22273's new affinity list: 7
+Training time of Exp. 1 (secs): 24.942543
+Training time of Exp. 2 (secs): 44.365723
+Training time of Exp. 3 (secs): 61.061690
+Training time of Exp. 4 (secs): 95.668710
+Training time of Exp. 5 (secs): 90.921402
+Training time of Exp. 6 (secs): 82.082544
+Training time of Exp. 7 (secs): 65.708770
+Training time of Exp. 8 (secs): 74.126755
+Total training time (secs): 95.736801
